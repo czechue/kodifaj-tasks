@@ -14,13 +14,15 @@ Jeśli chcesz uczestniczyć jako mentor, reviewer, dobra dusza, nauczyciel etc. 
 
 Jeśli chcesz uczestniczyć w projekcie open-source niezależnie od swojego poziomu zaawansowania.
 
+Jeśli chcesz nauczyć się obsługiwać Git-a i GitHuba w praktyce wchodząc w interakcję z innymi użytkownikami.
+
 ### Motywacja 
 
 Wielu osobom podczas nauki brakuje:
 
 1) jasno określonej ścieżki i ciekawych zadań na ich poziomie zaawansowania, 
 2) wiedzy, które zagadnienia są najbardziej kluczowe z perspektywy pracodawcy,
-3) umiejętności korzystania z gita,
+3) umiejętności korzystania z GITa i GitHuba w praktyce,
 4) oceny kodu przez bardziej doświadczonych programistów,
 
 
@@ -29,6 +31,7 @@ Wielu osobom podczas nauki brakuje:
 Dzięki aplikacji Kodifaj masz możliwość szukania zadań webdev na swoim poziomie. Publikowania rozwiązań i zapraszania do Code Review innych użytkowników. Stawiamy również na naukę gita w bardzo praktycznej formie. Nauczysz się przy okazji tworzyć branche, dodawać pull requesty. Uczestniczyć w całym procesie Code Review od początku do końca. Jest to szalenie istotna umiejętność, która stanowi podstawę pracy każdego programisty. 
 
 ### Podstawowe założenia
+
 1) projekt ten stanowi jedyne source of true,
 2) aplikacja Kodifaj bazuje na treści zadań i rozwiązań z tego projektu, dodając swoje miary i wskaźniki, których tu brakuje
 
