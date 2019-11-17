@@ -18,11 +18,15 @@
     
     6. Klik w obraz inny niż środkowy - ustawia go w środku karuzeli.
     
-3. Nice to have
+3. Nice to have (poziom zaawansowany)
     
     1. Kilk w obraz środkowy wyświetla go na warstwie. Obraz główny jest lekko powięszony, pozostałe proporcjonalnie zmniejszone. Zamknięcie modala - po kliknięciu drugi raz w dowolny obszar strony.
     
     2. Zmiany obrazów są animowane.
+    
+    3. Karuzela jest w pełni "dostępna", może być obsługiwana tylko za pomocą klawiatury.
+    
+    4. Projekt posiada 100% code coverage.
 
 ## Uwagi
     
