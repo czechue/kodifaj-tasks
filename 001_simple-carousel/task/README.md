@@ -20,7 +20,9 @@
     
 3. Nice to have
     
-    1. Kilk w obraz środkowy wyświetla go w modalu.
+    1. Kilk w obraz środkowy wyświetla go na warstwie. Obraz główny jest lekko powięszony, pozostałe proporcjonalnie zmniejszone. Zamknięcie modala - po kliknięciu drugi raz w dowolny obszar strony.
+    
+    2. Zmiany obrazów są animowane.
 
 ## Uwagi
     
