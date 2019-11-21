@@ -1,5 +1,7 @@
 # Zadanie "simple carousel"
 
+Źródło: https://github.com/czechue/kodifaj-tasks
+
 ## Treść zadania
 
 1. Stwórz strukturę HTML widoku karuzeli oraz napisz odpowiednie reguły CSS, tak aby jak najdokładniej odwzorować wygląd przedstawiony na makiecie (patrz katalog `assets/1920x1080.png`).
