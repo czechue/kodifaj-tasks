@@ -6,16 +6,15 @@
 
 1. Instrukcja
 
-- Stwórz strukturę HTML widoku formularza w którym będziesz tworzył nowy adres URL. 
+    1. Stwórz strukturę HTML widoku formularza w którym będziesz tworzył nowy adres URL. 
 
-- Po zatwierdzeniu formularza użytkownik będzie przekierowywany na nowo-powstały adres. 
+    2. Po zatwierdzeniu formularza użytkownik będzie przekierowywany na nowo-powstały adres. 
 
-- Formularz posiada minimum 1 pole (początkowy stan), a maksymalnie 6. 
+    3. Formularz posiada minimum 1 pole (początkowy stan), a maksymalnie 6. 
 
-- Pierwszego pola nie można usunąć. 
+    4. Pierwszego pola nie można usunąć. 
 
-- Pola od numeru 2-6 są zawsze odpowiednio posortowane zgodnie z kolejnością.
-
+    5. Pola od numeru 2-6 są zawsze odpowiednio posortowane zgodnie z kolejnością.
 
 2. Szczegółowy opis akcji na formularzu:
 
