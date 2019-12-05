@@ -1,4 +1,4 @@
-# Zadanie "simple carousel"
+# Zadanie "form with dynamic input - create new URL"
 
 Źródło: https://github.com/czechue/kodifaj-tasks
 
