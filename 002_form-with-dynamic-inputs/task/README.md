@@ -16,6 +16,7 @@
 
     5. Pola od numeru 2-6 są zawsze odpowiednio posortowane zgodnie z kolejnością.
 
+
 2. Szczegółowy opis akcji na formularzu:
 
     1. Przycisk DODAJ - dodaje kolejne pole formularza. W momencie gdy jest tych pól maksymalna ilość - przycisk jest zablokowany ("disabled"). 
@@ -32,7 +33,7 @@
 ```    
     http://localhost:3000/?search=domyślna&passwords=fraza1;fraza2;fraza3
 ```
-(pamiętaj o enkodowaniu znaków). Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
+    7. (pamiętaj o enkodowaniu znaków). Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
 
 ## Uwagi
     
