@@ -29,7 +29,7 @@
 
     5. Każde kliknięcie w DODAJ - ustawia kursor na nowo-dodanym inpucie.
 
-    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej zawartości: `http://localhost:3000/?search=domyślna&passwords=fraza1;fraza2;fraza3`
+    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej zawartości: `http://localhost:3000?passwords=fraza1;fraza2;fraza3`
     
     7. (pamiętaj o enkodowaniu znaków). Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
 
