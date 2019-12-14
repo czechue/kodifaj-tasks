@@ -1,4 +1,4 @@
-# Zadanie "form with dynamic input - create new URL"
+# Zadanie "form with dynamic input - create new redirect URL"
 
 Źródło: https://github.com/czechue/kodifaj-tasks
 
@@ -6,7 +6,7 @@
 
 1. Instrukcja
 
-    1. Stwórz strukturę HTML widoku formularza w którym będziesz tworzył nowy adres URL. 
+    1. Stwórz strukturę HTML widoku formularza w którym będziesz tworzył nowy adres przekierowania URL. 
 
     2. Po zatwierdzeniu formularza użytkownik będzie przekierowywany na nowo-powstały adres. 
 
