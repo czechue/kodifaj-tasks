@@ -23,13 +23,13 @@
 
     2. Pola 2 - 6 posiadają przyciski "X" które pozwalają je usunąć. (Pamiętaj aby podczas usuwania pól, również labelki się odpowiednio zmieniały, tak aby kolejność zawszy była zachowana). Usunięcie pola 6 odblokowuje ponownie możliwość korzystania z przycisku DODAJ.
 
-    3. W polu 1 domyślnie znajduje się wartość z query string URLa: ?search="domyślna wartość w inpucie".
+    3. W polu 1 domyślnie znajduje się wartość "test value".
 
     4. Nie można dodawać kolejnych inputów, jeśli którykolwiek poprzedni jest pusty. Wtedy pod pustym wyświetlamy podpowiedź: "pole nie może być puste".
 
     5. Każde kliknięcie w DODAJ - ustawia kursor na nowo-dodanym inpucie.
 
-    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej zawartości: `http://localhost:3000?passwords=fraza1;fraza2;fraza3`
+    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej zawartości: `http://localhost:3000?phrases=fraza1;fraza2;fraza3`
     
     7. (pamiętaj o enkodowaniu znaków). Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
 
