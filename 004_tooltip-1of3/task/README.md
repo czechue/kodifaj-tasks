@@ -24,7 +24,8 @@ _*weź pod uwagę, że panel ten może być w przyszłości rozszerzony o kolejn
 
 2. Interakcje zaawansowane:
 
-    1. :point_right: Kliknięcie na element (A, B lub C) powoduje pojawienie się Tooltipa obok tego elementu.
+    1. :point_right: Kliknięcie na element (A, B lub C) powoduje pojawienie się Tooltipa obok tego elementu. 
+    Drugie kliknięcie bądź wciśnięcie klawisza ESC zamyka tooltip.
 
     2. :point_right: Zmiana **color** - zmienia kolor Tooltipa.
 
@@ -45,3 +46,13 @@ _*weź pod uwagę, że panel ten może być w przyszłości rozszerzony o kolejn
 *   Użyty font to `Poppins`.
 
 *  :heart: dla `pejotr` za podsunięcie pomysłu.
+
+
+POMYSŁY NA NA NASTĘPNE ZADANIE:
+
+- "tooltip musi zawierać się w oknie przeglądarki bez ucinania jego treści" @Marek
+- "Wydaje mi sie że tekst w dymku powinien być wycentrowany i w poziomie i w pionie
+Jako bonus bym dodał może opcje różnych animacji pojawiania/znikania + delay ewentualnie 
+No i trigger do wyboru - albo najechanie albo kliknięcie albo może custom event jakiś" @larto
+- - komponent tooltip z pozycjonowaniem względem danego elementu, automatycznie zmieniający swoje położenie jeśli brakuje mu miejsca w viewporcie 
+- bazujący na rozwiązaniu z pozycjonowaniem tooltipa komponent autocomplete, który podpowiedzi będzie wyświetlać pod inputem, lub nad jeśli nie zmieści się pod, do tego obsługa wyboru opcji z klawiatury (góra/dół/enter), limitowanie ilości podpowiedzi, przycisk 'pokaż więcej podpowiedzi', etc. @pejotr
