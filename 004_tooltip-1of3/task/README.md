@@ -1,6 +1,8 @@
-# Zadanie "reusable tooltip component"
+# Zadanie "reusable tooltip component 1 of 3"
 
 Źródło: https://github.com/czechue/kodifaj-tasks
+
+Pierwsza część zadania w której będziesz tworzył bardzo popularny i powszechnie stosowany w wielu sytuacjach komponent. Staraj się aby Twój kod był możliwie **generyczny** i przygotowany na dodawanie kolejnych funkcjonalności.
 
 ## Treść zadania
 
