@@ -29,9 +29,9 @@
 
     5. Każde kliknięcie w DODAJ - ustawia kursor na nowo-dodanym inpucie.
 
-    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej wartości: `http://localhost:3000?phrases=fraza1;fraza2;fraza3`, gdzie `fraza1` to wartość z pierwszego inputa, `fraza2` z drugiego itd.
+    6. Przycisk "ZAPISZ" - przekierowuje na URL-a z pathem o przykładowej wartości: `http://localhost:3000?phrases=fraza1;fraza2;fraza3`, gdzie `fraza1` to wartość z pierwszego inputa, `fraza2` z drugiego itd. (pamiętaj o enkodowaniu znaków)
     
-    7. (pamiętaj o enkodowaniu znaków). Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
+    7. Przy submicie również żadne pole nie może być puste - powinien pojawiać się message j.w.
 
 
 ## Uwagi
