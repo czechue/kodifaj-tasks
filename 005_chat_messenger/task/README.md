@@ -28,7 +28,8 @@ Stwórz aplikację "chatu dla 2 użytkowników" w której będziesz mógł wybra
 
         - **w wersji zaawansowanej** na telefonach aplikacja powinna wykorzystać całą wysokość i szerokość ekranu tak, aby nie trzeba było jej scrollować. Scrollować można jedynie konwersację,
 
-    2. W panelu logowania:
+    2. W *panelu logowania*:
+        - jest to imitacja logowania, która w praktyce polega na wybraniu 1 z 2 dostępnych użytkowników,
 
         - stwórz dwa przyciski, dzięki którym można zmieniać aktywnego użytkownika,
 
