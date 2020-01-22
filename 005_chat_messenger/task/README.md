@@ -4,6 +4,8 @@
 
 ## Treść zadania
 
+Stwórz aplikację "chatu dla 2 użytkowników" w której będziesz mógł wybrać którym użytkownikiem chcesz być i w której w dowolnym momencie będziesz mógł przełączać się pomiędzy nimi.
+
 1. Instrukcja
 
     1. Stwórz strukturę aplikacji opartą o komponenty mając na uwadzę, że będzie się ona składała z dwóch, niezależnych widoków (strony logowania i strony chatu).
