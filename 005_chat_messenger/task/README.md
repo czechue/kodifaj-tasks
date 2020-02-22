@@ -37,7 +37,7 @@ Stwórz aplikację "chatu dla 2 użytkowników" w której będziesz mógł wybra
 
     3. W widoku chatu:
 
-        - za pomocą pola tekstowego można wysyłać wiadomości które pojawiają się w oknie czatu,
+        - za pomocą pola tekstowego można wysyłać wiadomości które pojawiają się w oknie czatu, (zatwierdzić wiadomość można zarówno buttonem jak i Enterem),
 
         - całą historia rozmowy zostaje zapisana w localStorage,
         
@@ -48,6 +48,8 @@ Stwórz aplikację "chatu dla 2 użytkowników" w której będziesz mógł wybra
         - **w wersji zaawansowanej** Twoje dymki zawsze będą niebieskie, niezależnie od tego które konto wybrałeś (niebieskie, czy szare),
 
         - wiadomości powinny renderować się od najnowszej w górę,
+
+        - po zatwierdzeniu wiadomość powinna zniknąć z pola do wpisywania,
 
     
 ## Uwagi
